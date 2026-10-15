@@ -9,7 +9,13 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guides",
+    "mechanics": "Mechanics",
+    "tutorial": "Tutorials",
+    "platforms": "Platforms",
+    "community": "Community",
+    "media": "Media"
   },
   "home": {
     "meta": {
@@ -429,7 +435,30 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "War Footing Guides",
+    "overviewDescription": "Step-by-step War Footing guides covering beginner basics, procurement planning, unit buildup, and full scenario walkthroughs for Cold War commanders."
+  },
+  "mechanics": {
+    "overviewTitle": "War Footing Game Mechanics",
+    "overviewDescription": "How War Footing systems actually work: resource management, military units, defense procurement, tension, and strategic defense planning."
+  },
+  "tutorial": {
+    "overviewTitle": "War Footing Tutorials",
+    "overviewDescription": "Episode-by-episode War Footing tutorials and a demo walkthrough that show how to play the opening turns, read the map, and avoid early mistakes."
+  },
+  "platforms": {
+    "overviewTitle": "War Footing Platforms and Release Info",
+    "overviewDescription": "Where to play War Footing: the Steam store page, PC system requirements, demo download details, and the latest release date information."
+  },
+  "community": {
+    "overviewTitle": "War Footing Community",
+    "overviewDescription": "What the War Footing community is saying on Reddit, Steam discussions, and player reviews, plus how to follow the conversation."
+  },
+  "media": {
+    "overviewTitle": "War Footing Media",
+    "overviewDescription": "War Footing trailers, gameplay videos, and let's play coverage that show the turn-based Cold War strategy systems in action."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -462,9 +491,9 @@
     "officialReddit": "Official Reddit",
     "vvBuilder": "Steam Store Page",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "mechanicsGuides": "Mechanics Guides",
+    "tutorialGuides": "Tutorials",
+    "platformGuides": "Platforms & Release Info",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
