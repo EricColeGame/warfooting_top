@@ -11,6 +11,8 @@ export interface SiteConfig {
   social?: {
     discord?: string;
     youtube?: string;
+    steam?: string;
+    reddit?: string;
     twitter?: string;
     tiktok?: string;
   };
@@ -25,9 +27,14 @@ export const siteConfig: SiteConfig = {
   tagline: "Units, Scenarios & Cold War Defense Strategy",
   description: "Master War Footing with practical strategy guides, scenario walkthroughs, military unit insights, procurement tips, and economic planning advice for Cold War defense campaigns.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://warfooting.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://warfooting.top").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@warfooting.top",
   gameUrl: "https://store.steampowered.com/app/4727860/",
-  heroVideoId: "EbfWy0_mSwU", // War Footing gameplay: defending a small nation (procurement strategy)
+  heroVideoId: "tVp3A-WYYWY", // Official War Footing trailer (Strategist's Den Games)
+  social: {
+    youtube: "https://www.youtube.com/@StrategistsDenGames",
+    steam: "https://steamcommunity.com/app/4727860",
+    reddit: "https://www.reddit.com/r/warfooting/",
+  },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
 };
