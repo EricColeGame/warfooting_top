@@ -43,22 +43,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Start with what a war footing actually means: the six pillars of mobilization, the historical patterns, and the signals that a peacetime economy is shifting to wartime priorities."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "How to Play",
+          "description": "Take the Minister of Defense chair and learn the six-phase weekly turn cycle: review, budget, procure, train, deploy, and stabilize before the invasion arrives."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Budget & Procurement",
+          "description": "Keep recurring income above recurring obligations, reserve capital funding for major purchases, and avoid the installment trap that collapses most first campaigns."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in War Footing."
+          "title": "Combat & Deployment",
+          "description": "Build formations from the company up, train them before you deploy, and put the right unit in the right sector once the shooting starts."
         }
       ]
     },
@@ -66,237 +66,327 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "How to Play",
+        "Budget & Procurement",
+        "Military Units"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "What a war footing means, the six pillars behind it, and the signals that a nation is mobilizing.",
+          "href": "/guide/war-footing-beginner-guide"
+        },
+        {
+          "badge": "Tutorial",
+          "title": "How to Play as Minister of Defense",
+          "description": "The weekly turn cycle, your first scenario plan, and the mistakes that sink first playthroughs.",
+          "href": "/tutorial/war-footing-how-to-play"
+        },
+        {
+          "badge": "Popular",
+          "title": "Procurement Guide",
+          "description": "Budget for installments, buy by formation role, and train your first units before deploying.",
+          "href": "/guide/war-footing-procurement-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Military Units & Formations",
+          "description": "Company-to-brigade structure, unit roles, and the training priority each type demands.",
+          "href": "/mechanics/war-footing-military-units"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
-        },
-        {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
-        },
-        {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Resource Management",
+          "description": "The four resource pools, the weekly phase framework, and the procurement trade-offs that matter.",
+          "href": "/mechanics/war-footing-resource-management"
         },
         {
           "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Strategic Defense",
+          "description": "Force structure, 180+ equipment types, and the combined arms problem in one reference.",
+          "href": "/mechanics/war-footing-strategic-defense"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "title": "First 10 Turns Walkthrough",
+          "description": "The opening turns that decide the campaign, from the money check to the defense plan.",
+          "href": "/guide/war-footing-game-walkthrough"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "title": "Demo Walkthrough",
+          "description": "Budget, procure, and hold the line in the free demo before the full invasion starts.",
+          "href": "/tutorial/war-footing-demo-walkthrough"
         },
         {
           "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Release Date & Roadmap",
+          "description": "Launch details, price, demo access, and the developer updates that followed release.",
+          "href": "/platforms/war-footing-release-date"
         }
       ]
     },
     "aboutGame": {
       "title": "What is War Footing?",
       "paragraphs": [
-        "War Footing is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "War Footing is a turn-based strategy game from developer and publisher Strategist's Den Games in which you serve as a nation's Minister of Defense during an alternate-history Cold War crisis. Each turn represents one week, and you control the budget, the procurement contracts, the political relationships, and the force structure. The army that meets the invasion is the army you built before the first shot was fired.",
+        "Across eight scenarios you source equipment from foreign suppliers or your own domestic industry, raise units from company to brigade level from a catalog of more than 180 equipment types, and protect the political stability that keeps your funding line open. Battles resolve at the operational level, sector by sector and week by week, so readiness, doctrine fit, equipment quality, and deployment decide the outcome long before contact."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Strategist's Den Games"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "Windows PC"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Turn-Based Strategy"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Released",
+          "value": "Oct 15, 2026"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Price",
+          "value": "$11.99"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Scenarios",
+          "value": "8"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Equipment Types",
+          "value": "180+"
+        },
+        {
+          "label": "Peak CCU",
+          "value": "123"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore War Footing Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore the War Footing Wiki",
+      "description": "Eight guide modules cover the whole mobilization: the beginner path, weekly economy management, equipment procurement, nations and blocs, combat doctrine, scenarios, diplomacy, and post-launch updates.",
       "modules": [
         {
           "order": 1,
-          "name": "War Footing Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/war-footing-codes",
-          "displayType": "code-box",
+          "name": "War Footing Beginner Guide",
+          "description": "Learn the core gameplay loop, turn-based military planning, and how to prepare your nation for an invasion. Cover essential first steps, including budget management, equipment procurement, unit training, and force deployment.",
+          "href": "/guide/war-footing-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Read the briefing first: every scenario ships with different starting conditions, resource constraints, and an enemy configuration."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Audit the money before you spend it: available funds, recurring income, and every payment you already owe."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Lock in foundational procurement early, while availability is still favorable and prices have not moved."
+            },
+            {
+              "label": "4",
+              "detail": "Raise and train core formations so you field a combined-arms backbone instead of one expensive unit stack."
+            },
+            {
+              "label": "5",
+              "detail": "Stabilize domestic politics, because political stability is what keeps the funding line open."
+            },
+            {
+              "label": "6",
+              "detail": "Spend the final turns filling gaps and finalizing deployment before the invasion begins."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/war-footing-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "War Footing Economy Guide",
+          "description": "Explain how to manage national income, allocate funds between procurement, industrial investment, domestic stability, and diplomacy, and plan purchases over multiple turns. Help players balance immediate military needs with long-term economic development.",
+          "href": "/mechanics/war-footing-resource-management",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Income",
+              "detail": "Recurring income pays the every-turn readiness, training, and stability bills, so it has to stay above your obligations."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Capital",
+              "detail": "Capital funding belongs to high-impact purchases and industrial expansion, never to routine operations."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Reserve",
+              "detail": "The emergency reserve absorbs delayed income and sudden crises, so grow it before tensions rise, not during."
+            },
+            {
+              "label": "Stability",
+              "detail": "Stability spending is a defensive investment: cut it and the funding stream that pays for your army can strangle itself."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/war-footing-tier-list",
+          "name": "War Footing Equipment Guide",
+          "description": "Explore the game's military equipment categories, including infantry weapons, tanks, artillery, aircraft, and air defense systems. Compare equipment costs, combat capabilities, availability, and strategic trade-offs to help players make informed procurement decisions.",
+          "href": "/mechanics/war-footing-military-units",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "S",
+              "detail": "Infantry and armor first: infantry holds ground and forms the structure of every larger formation, while armor supplies breakthrough and holding power."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "A",
+              "detail": "Air defense next: limited systems belong around your most important formations and infrastructure instead of being spread thin."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "B",
+              "detail": "Artillery follows: indirect fire shapes engagements, but it cannot defend itself once it is overrun."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "C",
+              "detail": "Aircraft last: reach and striking power fade quickly without maintenance, crews, and sustained readiness."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/war-footing-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "War Footing Nations Guide",
+          "description": "Introduce the playable nations and explain how their available units, industrial capabilities, and starting conditions affect military planning. Provide nation-specific preparation advice based on official game information and developer updates.",
+          "href": "/mechanics/war-footing-western-bloc-procurement",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Blocs",
+              "detail": "Cold War alignments decide who will sell to you and how quickly a foreign order can actually be delivered."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Industry",
+              "detail": "Domestic production lines ramp up slowly but improve cost and self-sufficiency as they scale."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Standing",
+              "detail": "Your starting treasury, industrial base, and neighbor determine which defense plan is even possible."
+            },
+            {
+              "label": "Doctrine",
+              "detail": "Match the force you build to the doctrine and the threat your nation actually faces."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/war-footing-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "War Footing Combat Strategy Guide",
+          "description": "Explain operational combat, sector defense, unit readiness, doctrine compatibility, and deployment decisions. Show how to build balanced forces and coordinate different unit types to improve battlefield effectiveness.",
+          "href": "/mechanics/war-footing-strategic-defense",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "1",
+              "detail": "Assign training weeks to the formations you will actually deploy, because readiness accumulates over turns."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "2",
+              "detail": "Match doctrine to mission and re-role or re-equip a formation rather than hoping it adapts in the field."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "3",
+              "detail": "Modernize key formations first so equipment quality can beat what is genuinely coming at you."
+            },
+            {
+              "label": "4",
+              "detail": "Deploy defensively near likely approaches and keep mobile forces back as reinforcement."
+            },
+            {
+              "label": "5",
+              "detail": "Cover every sector with a formation that is trained and fully equipped, not paper strength."
+            },
+            {
+              "label": "6",
+              "detail": "Recheck stability and the budget after the deployment order, because a war economy has to survive the war."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/war-footing-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "War Footing Scenario Guide",
+          "description": "Introduce the game's eight scenarios and explain how different starting conditions, resource limitations, and enemy configurations influence the player's strategy. Provide preparation checklists and scenario-specific recommendations as verified details become available.",
+          "href": "/guide/war-footing-game-walkthrough",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Briefing",
+              "detail": "Eight scenarios ship with distinct starting conditions, resource constraints, and enemy configurations."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Opening",
+              "detail": "The first turns set the rhythm: audit income, then commit to foundational procurement."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Midgame",
+              "detail": "Raise and train the combined-arms backbone while political stability still holds."
+            },
+            {
+              "label": "Endgame",
+              "detail": "Final turns are for filling gaps and finalizing deployment, since changes after the invasion barely matter."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "War Footing Diplomacy Guide",
+          "description": "Explain how diplomatic relationships, foreign suppliers, envoys, and political stability influence national defense planning. Help players understand the trade-offs between international procurement, diplomatic investment, and maintaining domestic support.",
+          "href": "/guide/war-footing-strategic-defense-management",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Envoys",
+              "detail": "Diplomacy is worth the spend when extra preparation time is worth more than another purchase."
+            },
+            {
+              "label": "Treaties",
+              "detail": "Honor diplomatic obligations early, while the political price of doing so is lowest."
+            },
+            {
+              "label": "Unrest",
+              "detail": "Domestic unrest fractures a war economy faster than any enemy offensive can."
+            },
+            {
+              "label": "Deals",
+              "detail": "Foreign deals buy speed and availability, while domestic industry buys control over your own supply."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "War Footing Updates and Roadmap",
+          "description": "Track official development announcements, balance changes, demo improvements, and planned post-launch content. Summarize confirmed updates and upcoming features using developer-published information rather than unverified community speculation.",
+          "href": "/platforms/war-footing-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "V0.9.7",
+              "detail": "Launch build: updated events and post-demo fixes shipped with the October 15, 2026 release."
+            },
+            {
+              "label": "Demo",
+              "detail": "A free Steam demo is available before you buy, running the same budget, procurement, and training loop."
+            },
+            {
+              "label": "Launch",
+              "detail": "Released October 15, 2026 at $11.99, with a 10% introductory discount that ran through October 22."
+            },
+            {
+              "label": "Roadmap",
+              "detail": "The developer posts update notes and roadmap announcements through the Steam store page and community hub."
             }
           ]
         }
@@ -308,23 +398,27 @@
       "items": [
         {
           "question": "What is War Footing?",
-          "answer": "War Footing is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "War Footing is a turn-based strategy game from developer and publisher Strategist's Den Games in which you play a nation's Minister of Defense during an alternate-history Cold War crisis. You control the budget, the procurement contracts, the political relationships, and the force structure rather than individual units on a battlefield."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How long is one turn in War Footing?",
+          "answer": "Each turn in War Footing represents one week, and every turn runs through the same six phases: review, budget, procure, train, deploy, and stabilize."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Do I fight the battles myself in War Footing?",
+          "answer": "No. Combat in War Footing resolves at the operational level, sector by sector and week by week. Outcomes follow from unit readiness, doctrine fit, equipment quality, and where you chose to deploy before the invasion started."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How many scenarios and equipment types does War Footing have?",
+          "answer": "War Footing ships with eight scenarios, each with its own starting conditions, resource constraints, and enemy configuration, plus more than 180 equipment types across small arms, armor, artillery, aircraft, and air defense systems."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "What should I buy first in War Footing?",
+          "answer": "Plan your first formations before you shop. Fund recurring readiness, training, and stability costs out of recurring income, reserve capital funding for major purchases, and never let installment payment dates collide with each other."
+        },
+        {
+          "question": "Where can I play War Footing and what does it cost?",
+          "answer": "War Footing is a single-player, turn-based strategy game for Windows PC available on Steam. It released on October 15, 2026 at $11.99, a free demo is available, and the 10% introductory discount ran through October 22."
         }
       ]
     },
