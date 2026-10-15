@@ -1,1 +1,500 @@
-{}
+{
+  "site": {
+    "name": "War Footing Wiki",
+    "shortName": "War Footing",
+    "tagline": "Unités, scénarios et stratégie de défense de la guerre froide",
+    "description": "Maîtrisez War Footing grâce à des guides stratégiques pratiques, des déroulés de scénarios, des analyses d'unités militaires, des conseils d'approvisionnement et des recommandations de planification économique pour les campagnes de défense de la guerre froide.",
+    "legalNotice": "Wiki de fans non officiel sur War Footing. Sans affiliation avec Strategist's Den Games."
+  },
+  "nav": {
+    "home": "Accueil",
+    "menu": "Menu",
+    "toggleTheme": "Changer de thème",
+    "guide": "Guides",
+    "mechanics": "Mécaniques",
+    "tutorial": "Tutoriels",
+    "platforms": "Plateformes",
+    "community": "Communauté",
+    "media": "Médias"
+  },
+  "home": {
+    "meta": {
+      "title": "War Footing Wiki - Unités, scénarios et stratégie",
+      "description": "Maîtrisez War Footing grâce à des guides stratégiques pratiques, des déroulés de scénarios, des analyses d'unités militaires, des conseils d'approvisionnement et des recommandations de planification économique pour les campagnes de défense de la guerre froide."
+    },
+    "hero": {
+      "eyebrow": "Stratégie militaire au tour par tour de la guerre froide",
+      "title": "War Footing Wiki",
+      "description": "Bâtissez la défense d'une nation dans War Footing, un jeu de stratégie de la guerre froide axé sur l'approvisionnement militaire, la planification économique, la gestion des forces et la survie nationale. Explorez des guides de scénarios, des stratégies d'unités et des conseils de planification défensive.",
+      "stats": [
+        "123 joueurs simultanés (pic)",
+        "8 scénarios disponibles",
+        "Sortie le 15 oct. 2026",
+        "PC Windows"
+      ],
+      "primaryCta": "Guide du débutant",
+      "secondaryCta": "Guides de scénarios",
+      "tertiaryCta": "Jouer sur Steam",
+      "videoLabel": "Bande-annonce officielle"
+    },
+    "updates": {
+      "title": "Dernières mises à jour",
+      "browse": "Parcourir tous les guides",
+      "viewAll": "Tout afficher"
+    },
+    "start": {
+      "eyebrow": "Commencez ici",
+      "title": "Votre parcours dans War Footing",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guide du débutant",
+          "description": "Commencez par ce que signifie réellement une économie de guerre : les six piliers de la mobilisation, les schémas historiques et les signaux indiquant qu'une économie de paix bascule vers des priorités de guerre."
+        },
+        {
+          "number": "2",
+          "title": "Comment jouer",
+          "description": "Prenez le poste de ministre de la Défense et découvrez le cycle hebdomadaire en six phases : examiner, budgéter, approvisionner, entraîner, déployer et stabiliser avant l'arrivée de l'invasion."
+        },
+        {
+          "number": "3",
+          "title": "Budget et approvisionnement",
+          "description": "Maintenez les revenus récurrents au-dessus des obligations récurrentes, réservez les fonds en capital aux achats majeurs et évitez le piège des mensualités qui fait s'effondrer la plupart des premières campagnes."
+        },
+        {
+          "number": "4",
+          "title": "Combat et déploiement",
+          "description": "Formez vos unités à partir de la compagnie, entraînez-les avant de les déployer et placez la bonne unité dans le bon secteur dès que les tirs commencent."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Pages populaires",
+      "title": "Tendances actuelles",
+      "quickLinks": [
+        "Guide du débutant",
+        "Comment jouer",
+        "Budget et approvisionnement",
+        "Unités militaires"
+      ],
+      "cards": [
+        {
+          "badge": "Débutant",
+          "title": "Guide du débutant",
+          "description": "Ce que signifie une économie de guerre, les six piliers qui la sous-tendent et les signaux qu'une nation se mobilise.",
+          "href": "/guide/war-footing-beginner-guide"
+        },
+        {
+          "badge": "Tutoriel",
+          "title": "Comment jouer en tant que ministre de la Défense",
+          "description": "Le cycle hebdomadaire, votre premier plan de scénario et les erreurs qui font échouer les premières parties.",
+          "href": "/tutorial/war-footing-how-to-play"
+        },
+        {
+          "badge": "Populaire",
+          "title": "Guide d'approvisionnement",
+          "description": "Budgétez les mensualités, achetez selon le rôle des unités et entraînez vos premières unités avant de les déployer.",
+          "href": "/guide/war-footing-procurement-guide"
+        },
+        {
+          "badge": "Populaire",
+          "title": "Unités et formations militaires",
+          "description": "Structure de la compagnie à la brigade, rôles des unités et priorité d'entraînement exigée par chaque type.",
+          "href": "/mechanics/war-footing-military-units"
+        },
+        {
+          "badge": "Mis à jour",
+          "title": "Gestion des ressources",
+          "description": "Les quatre réserves de ressources, le cadre des phases hebdomadaires et les compromis d'approvisionnement qui comptent.",
+          "href": "/mechanics/war-footing-resource-management"
+        },
+        {
+          "badge": "Nouveau",
+          "title": "Défense stratégique",
+          "description": "Structure des forces, plus de 180 types d'équipement et le problème des armes combinées en une seule référence.",
+          "href": "/mechanics/war-footing-strategic-defense"
+        },
+        {
+          "badge": "Populaire",
+          "title": "Les 10 premiers tours",
+          "description": "Les tours d'ouverture qui décident de la campagne, du contrôle budgétaire au plan de défense.",
+          "href": "/guide/war-footing-game-walkthrough"
+        },
+        {
+          "badge": "Nouveau",
+          "title": "Déroulé de la démo",
+          "description": "Budgétez, approvisionnez et tenez la ligne dans la démo gratuite avant le début de l'invasion complète.",
+          "href": "/tutorial/war-footing-demo-walkthrough"
+        },
+        {
+          "badge": "Nouveau",
+          "title": "Date de sortie et feuille de route",
+          "description": "Détails du lancement, prix, accès à la démo et mises à jour du développeur après la sortie.",
+          "href": "/platforms/war-footing-release-date"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Qu'est-ce que War Footing ?",
+      "paragraphs": [
+        "War Footing est un jeu de stratégie au tour par tour du développeur et éditeur Strategist's Den Games dans lequel vous incarnez le ministre de la Défense d'une nation pendant une crise uchronique de la guerre froide. Chaque tour représente une semaine, et vous contrôlez le budget, les contrats d'approvisionnement, les relations politiques et la structure des forces. L'armée qui affronte l'invasion est celle que vous avez bâtie avant le premier coup de feu.",
+        "Dans huit scénarios, vous vous approvisionnez auprès de fournisseurs étrangers ou de votre industrie nationale, levez des unités de la compagnie à la brigade à partir d'un catalogue de plus de 180 types d'équipement, et protégez la stabilité politique qui maintient votre ligne de financement ouverte. Les batailles se résolvent au niveau opérationnel, secteur par secteur et semaine par semaine, de sorte que la préparation, l'adéquation doctrinale, la qualité de l'équipement et le déploiement décident de l'issue bien avant le contact."
+      ],
+      "stats": [
+        {
+          "label": "Développeur",
+          "value": "Strategist's Den Games"
+        },
+        {
+          "label": "Plateforme",
+          "value": "PC Windows"
+        },
+        {
+          "label": "Genre",
+          "value": "Stratégie au tour par tour"
+        },
+        {
+          "label": "Sortie",
+          "value": "15 oct. 2026"
+        },
+        {
+          "label": "Prix",
+          "value": "$11.99"
+        },
+        {
+          "label": "Scénarios",
+          "value": "8"
+        },
+        {
+          "label": "Types d'équipement",
+          "value": "180+"
+        },
+        {
+          "label": "Pic de joueurs simultanés",
+          "value": "123"
+        }
+      ],
+      "cta": "Explorer tous les guides"
+    },
+    "explore": {
+      "title": "Explorez le wiki War Footing",
+      "description": "Huit modules de guides couvrent toute la mobilisation : le parcours du débutant, la gestion économique hebdomadaire, l'approvisionnement en équipement, les nations et blocs, la doctrine de combat, les scénarios, la diplomatie et les mises à jour après le lancement.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guide du débutant de War Footing",
+          "description": "Apprenez la boucle de jeu principale, la planification militaire au tour par tour et la façon de préparer votre nation à une invasion. Couvre les premiers pas essentiels, notamment la gestion du budget, l'approvisionnement en équipement, l'entraînement des unités et le déploiement des forces.",
+          "href": "/guide/war-footing-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Lisez d'abord le briefing : chaque scénario arrive avec des conditions de départ, des contraintes de ressources et une configuration ennemie différentes."
+            },
+            {
+              "label": "2",
+              "detail": "Vérifiez l'argent avant de le dépenser : fonds disponibles, revenus récurrents et chaque paiement déjà dû."
+            },
+            {
+              "label": "3",
+              "detail": "Verrouillez tôt l'approvisionnement fondamental, tant que la disponibilité est encore favorable et que les prix n'ont pas bougé."
+            },
+            {
+              "label": "4",
+              "detail": "Levez et entraînez les formations principales pour aligner une ossature interarmes plutôt qu'un seul empilement d'unités coûteuses."
+            },
+            {
+              "label": "5",
+              "detail": "Stabilisez la politique intérieure, car la stabilité politique est ce qui maintient la ligne de financement ouverte."
+            },
+            {
+              "label": "6",
+              "detail": "Consacrez les derniers tours à combler les lacunes et à finaliser le déploiement avant le début de l'invasion."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guide économique de War Footing",
+          "description": "Explique comment gérer le revenu national, répartir les fonds entre approvisionnement, investissement industriel, stabilité intérieure et diplomatie, et planifier les achats sur plusieurs tours. Aide les joueurs à équilibrer les besoins militaires immédiats et le développement économique à long terme.",
+          "href": "/mechanics/war-footing-resource-management",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Revenus",
+              "detail": "Les revenus récurrents paient les factures de préparation, d'entraînement et de stabilité à chaque tour ; ils doivent donc rester au-dessus de vos obligations."
+            },
+            {
+              "label": "Capital",
+              "detail": "Les fonds en capital sont réservés aux achats à fort impact et à l'expansion industrielle, jamais aux opérations courantes."
+            },
+            {
+              "label": "Réserve",
+              "detail": "La réserve d'urgence absorbe les revenus retardés et les crises soudaines : constituez-la avant que les tensions montent, pas pendant."
+            },
+            {
+              "label": "Stabilité",
+              "detail": "Les dépenses de stabilité sont un investissement défensif : réduisez-les et le flux de financement qui paie votre armée peut s'étrangler lui-même."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guide de l'équipement de War Footing",
+          "description": "Explorez les catégories d'équipement militaire du jeu, notamment les armes d'infanterie, les chars, l'artillerie, les aéronefs et les systèmes de défense antiaérienne. Comparez les coûts, les capacités de combat, la disponibilité et les compromis stratégiques pour aider les joueurs à prendre des décisions d'approvisionnement éclairées.",
+          "href": "/mechanics/war-footing-military-units",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Infanterie et blindés d'abord : l'infanterie tient le terrain et forme la structure de toute formation plus large, tandis que les blindés apportent la percée et la capacité de tenue."
+            },
+            {
+              "label": "A",
+              "detail": "Défense antiaérienne ensuite : les systèmes limités doivent être placés autour de vos formations et infrastructures les plus importantes plutôt que dispersés."
+            },
+            {
+              "label": "B",
+              "detail": "L'artillerie suit : le tir indirect façonne les engagements, mais elle ne peut pas se défendre une fois submergée."
+            },
+            {
+              "label": "C",
+              "detail": "Les aéronefs en dernier : portée et puissance de frappe s'estompent vite sans maintenance, équipages et préparation continue."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guide des nations de War Footing",
+          "description": "Présente les nations jouables et explique comment leurs unités disponibles, leurs capacités industrielles et leurs conditions de départ affectent la planification militaire. Fournit des conseils de préparation propres à chaque nation, fondés sur les informations officielles du jeu et les mises à jour du développeur.",
+          "href": "/mechanics/war-footing-western-bloc-procurement",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Blocs",
+              "detail": "Les alignements de la guerre froide déterminent qui vous vendra et à quelle vitesse une commande étrangère peut réellement être livrée."
+            },
+            {
+              "label": "Industrie",
+              "detail": "Les lignes de production nationales montent lentement en puissance mais améliorent le coût et l'autonomie à mesure qu'elles grandissent."
+            },
+            {
+              "label": "Position",
+              "detail": "Votre trésorerie de départ, votre base industrielle et votre voisin déterminent quel plan de défense est même possible."
+            },
+            {
+              "label": "Doctrine",
+              "detail": "Alignez les forces que vous bâtissez sur la doctrine et la menace que votre nation affronte réellement."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guide de stratégie de combat de War Footing",
+          "description": "Explique le combat opérationnel, la défense de secteur, la préparation des unités, la compatibilité doctrinale et les décisions de déploiement. Montre comment bâtir des forces équilibrées et coordonner différents types d'unités pour améliorer l'efficacité au combat.",
+          "href": "/mechanics/war-footing-strategic-defense",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Attribuez des semaines d'entraînement aux formations que vous déploierez réellement, car la préparation s'accumule au fil des tours."
+            },
+            {
+              "label": "2",
+              "detail": "Faites correspondre la doctrine à la mission et changez le rôle ou l'équipement d'une formation plutôt que d'espérer qu'elle s'adapte sur le terrain."
+            },
+            {
+              "label": "3",
+              "detail": "Modernisez d'abord les formations clés pour que la qualité de l'équipement puisse battre ce qui vient réellement vers vous."
+            },
+            {
+              "label": "4",
+              "detail": "Déployez-vous défensivement près des axes probables et gardez des forces mobiles en réserve comme renfort."
+            },
+            {
+              "label": "5",
+              "detail": "Couvrez chaque secteur avec une formation entraînée et pleinement équipée, pas une force sur le papier."
+            },
+            {
+              "label": "6",
+              "detail": "Revérifiez la stabilité et le budget après l'ordre de déploiement, car une économie de guerre doit survivre à la guerre."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guide des scénarios de War Footing",
+          "description": "Présente les huit scénarios du jeu et explique comment les différentes conditions de départ, limites de ressources et configurations ennemies influencent la stratégie du joueur. Fournit des listes de préparation et des recommandations propres aux scénarios à mesure que des détails vérifiés deviennent disponibles.",
+          "href": "/guide/war-footing-game-walkthrough",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Briefing",
+              "detail": "Huit scénarios sont livrés avec des conditions de départ, des contraintes de ressources et des configurations ennemies distinctes."
+            },
+            {
+              "label": "Ouverture",
+              "detail": "Les premiers tours donnent le rythme : vérifiez les revenus, puis engagez l'approvisionnement fondamental."
+            },
+            {
+              "label": "Milieu de partie",
+              "detail": "Levez et entraînez l'ossature interarmes tant que la stabilité politique tient encore."
+            },
+            {
+              "label": "Fin de partie",
+              "detail": "Les derniers tours servent à combler les lacunes et à finaliser le déploiement, car les changements après l'invasion comptent à peine."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Guide de diplomatie de War Footing",
+          "description": "Explique comment les relations diplomatiques, les fournisseurs étrangers, les émissaires et la stabilité politique influencent la planification de la défense nationale. Aide les joueurs à comprendre les compromis entre approvisionnement international, investissement diplomatique et maintien du soutien intérieur.",
+          "href": "/guide/war-footing-strategic-defense-management",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Émissaires",
+              "detail": "La diplomatie vaut la dépense lorsque du temps de préparation supplémentaire vaut plus qu'un achat de plus."
+            },
+            {
+              "label": "Traités",
+              "detail": "Honorez les obligations diplomatiques tôt, tant que le prix politique pour le faire est le plus bas."
+            },
+            {
+              "label": "Troubles",
+              "detail": "Les troubles intérieurs fracturent une économie de guerre plus vite que n'importe quelle offensive ennemie."
+            },
+            {
+              "label": "Accords",
+              "detail": "Les accords étrangers achètent la vitesse et la disponibilité, tandis que l'industrie nationale achète le contrôle de votre propre approvisionnement."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Mises à jour et feuille de route de War Footing",
+          "description": "Suivez les annonces officielles de développement, les changements d'équilibrage, les améliorations de la démo et le contenu post-lancement prévu. Résume les mises à jour confirmées et les fonctionnalités à venir à partir d'informations publiées par le développeur plutôt que de spéculations communautaires non vérifiées.",
+          "href": "/platforms/war-footing-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "V0.9.7",
+              "detail": "Version de lancement : événements mis à jour et correctifs post-démo livrés avec la sortie du 15 octobre 2026."
+            },
+            {
+              "label": "Démo",
+              "detail": "Une démo Steam gratuite est disponible avant l'achat, avec la même boucle de budget, d'approvisionnement et d'entraînement."
+            },
+            {
+              "label": "Lancement",
+              "detail": "Sorti le 15 octobre 2026 au prix de 11,99 $, avec une remise de lancement de 10 % jusqu'au 22 octobre."
+            },
+            {
+              "label": "Feuille de route",
+              "detail": "Le développeur publie les notes de mise à jour et les annonces de feuille de route via la page Steam et le hub communautaire."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Questions fréquentes",
+      "description": "Des réponses rapides aux questions les plus courantes sur War Footing.",
+      "items": [
+        {
+          "question": "Qu'est-ce que War Footing ?",
+          "answer": "War Footing est un jeu de stratégie au tour par tour du développeur et éditeur Strategist's Den Games dans lequel vous jouez le ministre de la Défense d'une nation pendant une crise uchronique de la guerre froide. Vous contrôlez le budget, les contrats d'approvisionnement, les relations politiques et la structure des forces plutôt que des unités individuelles sur un champ de bataille."
+        },
+        {
+          "question": "Combien de temps dure un tour dans War Footing ?",
+          "answer": "Chaque tour de War Footing représente une semaine, et chaque tour traverse les mêmes six phases : examiner, budgéter, approvisionner, entraîner, déployer et stabiliser."
+        },
+        {
+          "question": "Est-ce que je livre moi-même les batailles dans War Footing ?",
+          "answer": "Non. Le combat dans War Footing se résout au niveau opérationnel, secteur par secteur et semaine par semaine. Les résultats découlent de la préparation des unités, de l'adéquation doctrinale, de la qualité de l'équipement et de l'endroit où vous avez choisi de déployer avant le début de l'invasion."
+        },
+        {
+          "question": "Combien de scénarios et de types d'équipement War Footing propose-t-il ?",
+          "answer": "War Footing est livré avec huit scénarios, chacun avec ses propres conditions de départ, contraintes de ressources et configuration ennemie, ainsi que plus de 180 types d'équipement couvrant les armes légères, les blindés, l'artillerie, les aéronefs et les systèmes de défense antiaérienne."
+        },
+        {
+          "question": "Que dois-je acheter en premier dans War Footing ?",
+          "answer": "Planifiez vos premières formations avant d'acheter. Financez les coûts récurrents de préparation, d'entraînement et de stabilité à partir des revenus récurrents, réservez les fonds en capital aux achats majeurs et ne laissez jamais les échéances de mensualités se chevaucher."
+        },
+        {
+          "question": "Où puis-je jouer à War Footing et combien cela coûte-t-il ?",
+          "answer": "War Footing est un jeu de stratégie au tour par tour solo pour PC Windows, disponible sur Steam. Il est sorti le 15 octobre 2026 au prix de 11,99 $, une démo gratuite est disponible, et la remise de lancement de 10 % a duré jusqu'au 22 octobre."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Prêt à maîtriser War Footing ?",
+      "description": "De vos premières décisions d'approvisionnement à la planification défensive de fin de campagne, notre wiki communautaire couvre chaque scénario avec des guides gratuits et à jour.",
+      "primary": "Lire le guide du débutant",
+      "secondary": "Jouer sur Steam"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guides War Footing",
+    "overviewDescription": "Des guides War Footing pas à pas couvrant les bases pour débutants, la planification de l'approvisionnement, la montée en puissance des unités et des déroulés de scénarios complets pour les commandants de la guerre froide."
+  },
+  "mechanics": {
+    "overviewTitle": "Mécaniques de jeu de War Footing",
+    "overviewDescription": "Comment les systèmes de War Footing fonctionnent réellement : gestion des ressources, unités militaires, approvisionnement de défense, tensions et planification de défense stratégique."
+  },
+  "tutorial": {
+    "overviewTitle": "Tutoriels War Footing",
+    "overviewDescription": "Des tutoriels War Footing épisode par épisode et un déroulé de la démo qui montrent comment jouer les tours d'ouverture, lire la carte et éviter les erreurs de début."
+  },
+  "platforms": {
+    "overviewTitle": "Plateformes et infos de sortie de War Footing",
+    "overviewDescription": "Où jouer à War Footing : la page Steam, la configuration système requise pour PC, les détails de téléchargement de la démo et les dernières informations sur la date de sortie."
+  },
+  "community": {
+    "overviewTitle": "Communauté War Footing",
+    "overviewDescription": "Ce que dit la communauté War Footing sur Reddit, dans les discussions Steam et les avis de joueurs, et comment suivre la conversation."
+  },
+  "media": {
+    "overviewTitle": "Médias War Footing",
+    "overviewDescription": "Bandes-annonces, vidéos de gameplay et couvertures let's play de War Footing qui montrent les systèmes de stratégie au tour par tour de la guerre froide en action."
+  },
+  "shared": {
+    "wikiNavigation": "Navigation du wiki",
+    "activeCodes": "Codes actifs",
+    "updated": "Mis à jour",
+    "viewAllCodes": "Voir tous les codes",
+    "playOnRoblox": "Jouer sur Roblox",
+    "inThisSection": "Dans cette section",
+    "tableOfContents": "Table des matières",
+    "nextSteps": "Étapes suivantes",
+    "needHelp": "Besoin d'aide ?",
+    "relatedReading": "Lectures associées",
+    "relatedGuides": "Guides associés",
+    "readMore": "Lire la suite",
+    "officialMedia": "Médias officiels",
+    "home": "Accueil",
+    "noGuidesAvailable": "Aucun guide disponible pour le moment. Revenez bientôt !"
+  },
+  "footer": {
+    "aboutTitle": "War Footing Wiki",
+    "about": "Le wiki War Footing est un hub de guides indépendant créé par des fans, couvrant les scénarios, les unités militaires, la planification de l'approvisionnement et les connaissances essentielles du jeu, pour les nouveaux commandants comme pour les vétérans.",
+    "quickLinks": "Liens rapides",
+    "guides": "Guides",
+    "legal": "Mentions légales",
+    "copyright": "2026 War Footing Wiki. Sans affiliation avec Strategist's Den Games.",
+    "description": "Stratégie militaire au tour par tour de la guerre froide sur PC Windows. Planifiez l'approvisionnement, gérez les budgets et défendez votre nation.",
+    "playGame": "Jouer à War Footing sur Steam",
+    "officialDiscord": "Discord officiel",
+    "officialSteam": "Communauté Steam",
+    "officialYoutube": "YouTube officiel",
+    "officialReddit": "Reddit officiel",
+    "vvBuilder": "Page Steam",
+    "beginnerGuide": "Guide du débutant",
+    "mechanicsGuides": "Guides de mécaniques",
+    "tutorialGuides": "Tutoriels",
+    "platformGuides": "Plateformes et infos de sortie",
+    "privacyPolicy": "Politique de confidentialité",
+    "termsOfService": "Conditions d'utilisation"
+  }
+}
