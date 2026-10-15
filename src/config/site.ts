@@ -35,6 +35,6 @@ export const siteConfig: SiteConfig = {
     steam: "https://steamcommunity.com/app/4727860",
     reddit: "https://www.reddit.com/r/warfooting/",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "de", "ru", "fr"],
   defaultLocale: "en",
 };
